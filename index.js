@@ -1,6 +1,1 @@
-console.log('Happy developing ✨') "woooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooow"
-
-
-
-
-New changs for the commit
+console.log('Happy developing ✨') (hello world)
